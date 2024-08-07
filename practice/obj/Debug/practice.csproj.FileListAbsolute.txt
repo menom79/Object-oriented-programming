@@ -1,0 +1,8 @@
+D:\e\study\fall22\oop\practice\bin\Debug\practice.exe.config
+D:\e\study\fall22\oop\practice\bin\Debug\practice.exe
+D:\e\study\fall22\oop\practice\bin\Debug\practice.pdb
+D:\e\study\fall22\oop\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+D:\e\study\fall22\oop\practice\obj\Debug\practice.csproj.SuggestedBindingRedirects.cache
+D:\e\study\fall22\oop\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+D:\e\study\fall22\oop\practice\obj\Debug\practice.exe
+D:\e\study\fall22\oop\practice\obj\Debug\practice.pdb

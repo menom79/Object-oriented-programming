@@ -1,0 +1,8 @@
+D:\e\study\fall22\oop\Giraffe\bin\Debug\Giraffe.exe.config
+D:\e\study\fall22\oop\Giraffe\bin\Debug\Giraffe.exe
+D:\e\study\fall22\oop\Giraffe\bin\Debug\Giraffe.pdb
+D:\e\study\fall22\oop\Giraffe\obj\Debug\Giraffe.csproj.AssemblyReference.cache
+D:\e\study\fall22\oop\Giraffe\obj\Debug\Giraffe.csproj.SuggestedBindingRedirects.cache
+D:\e\study\fall22\oop\Giraffe\obj\Debug\Giraffe.csproj.CoreCompileInputs.cache
+D:\e\study\fall22\oop\Giraffe\obj\Debug\Giraffe.exe
+D:\e\study\fall22\oop\Giraffe\obj\Debug\Giraffe.pdb

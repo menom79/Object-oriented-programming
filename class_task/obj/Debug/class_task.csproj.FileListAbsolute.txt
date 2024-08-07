@@ -1,0 +1,8 @@
+D:\e\study\fall22\oop\class_task\obj\Debug\class_task.csproj.AssemblyReference.cache
+D:\e\study\fall22\oop\class_task\obj\Debug\class_task.csproj.SuggestedBindingRedirects.cache
+D:\e\study\fall22\oop\class_task\obj\Debug\class_task.csproj.CoreCompileInputs.cache
+D:\e\study\fall22\oop\class_task\bin\Debug\class_task.exe.config
+D:\e\study\fall22\oop\class_task\bin\Debug\class_task.exe
+D:\e\study\fall22\oop\class_task\bin\Debug\class_task.pdb
+D:\e\study\fall22\oop\class_task\obj\Debug\class_task.exe
+D:\e\study\fall22\oop\class_task\obj\Debug\class_task.pdb
